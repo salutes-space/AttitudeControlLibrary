@@ -30,3 +30,15 @@
 *.exe
 *.out
 *.app
+
+# Results
+AttitudeResults.csv
+Temoporary/
+build/
+app/
+
+# Mac Logs
+.DS_Store
+
+# Exclude AMLExample
+AMLExample/
